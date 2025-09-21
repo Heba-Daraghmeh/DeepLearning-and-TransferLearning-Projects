@@ -2,4 +2,4 @@
 
 ## 📖 Overview
 
-This repository contains **two machine learning projects** completed as part of an **internship at Flexisaf**.  
+This repository contains **two machine learning projects** completed as part of a **Gen AI and Data science internship at Flexisaf**.  
