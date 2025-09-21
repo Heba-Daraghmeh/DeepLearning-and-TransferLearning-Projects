@@ -1,10 +1,5 @@
-# \# Internship Machine Learning Projects – Blabla Company
+# Internship Machine Learning Projects – Blabla Company
 
-# 
+## 📖 Overview
 
-# \## 📖 Overview
-
-# This repository contains \*\*two machine learning projects\*\* completed as part of an \*\*internship at Flexisaf\*\*.  
-
-# T
-
+This repository contains **two machine learning projects** completed as part of an **internship at Flexisaf**.  
